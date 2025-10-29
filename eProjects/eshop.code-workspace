@@ -1,1 +1,11 @@
-
+{
+	"folders": [
+		{
+			"path": "my-laravel-api-app"
+		},
+		{
+			"path": "my-react-app"
+		}
+	],
+	"settings": {}
+}
